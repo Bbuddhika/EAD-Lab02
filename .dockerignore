@@ -1,0 +1,8 @@
+.git
+.mvn
+.vscode
+src
+.env
+.lab-tools
+docs
+scripts
